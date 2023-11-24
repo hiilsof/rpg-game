@@ -15,3 +15,4 @@ To implement
 
 # update
 RenPy Version in progress
+Pygame Version (current)
